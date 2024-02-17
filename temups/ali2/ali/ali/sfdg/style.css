@@ -1,0 +1,785 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul li {
+  list-style: none;
+}
+.orta li a {
+  margin-left: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+.header_asosiy {
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.nn {
+  background-color: blueviolet;
+  height: 600px;
+  border-radius: 0 0 0 220px;
+  width: 100%;
+}
+.rasm {
+  margin-left: 100px;
+  margin-top: 50px;
+  width: 700px;
+  height: 500px;
+}
+.Smart_Watches {
+  margin-top: 200px;
+  color: white;
+}
+.Smart_Watches button {
+  width: 170px;
+  height: 50px;
+  border: none;
+  background-color: rgb(201, 201, 7);
+  color: white;
+  font-size: 18px;
+}
+.hh {
+  text-align: center;
+  margin-top: 70px;
+}
+.icon ul li {
+  font-size: 25px;
+  margin-right: 50px;
+}
+.icon ul {
+  margin-top: 150px;
+}
+.lastes_watches {
+  background-color: rgb(242, 242, 242);
+  width: 480px;
+  height: 300px;
+  border-radius: 20px;
+  position: relative;
+}
+.lastes {
+  margin-left: 170px;
+  margin-top: 30px;
+  height: 230px;
+}
+.lastes_watches button {
+  border: none;
+  background-color: rgb(230, 230, 0);
+  width: 100px;
+  height: 36px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 15px 0 0 0;
+}
+.lastes_watches h5 {
+  margin-top: 12px;
+  margin-left: 380px;
+}
+
+.lastes_watches2 {
+  background-color: rgb(242, 242, 242);
+  width: 250px;
+  height: 300px;
+  border-radius: 20px;
+  position: relative;
+}
+.lastes2 {
+  margin-left: 65px;
+  margin-top: 35px;
+  height: 230px;
+  width: 130px;
+}
+.lastes_watches2 button {
+  border: none;
+  background-color: rgb(230, 230, 0);
+  width: 50px;
+  height: 36px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 15px 0 0 0;
+}
+.lastes_watches2 h5 {
+  margin-top: 12px;
+  margin-left: 135px;
+}
+.lastes_asosiy {
+  margin-left: 220px;
+}
+.lastes_asosiy2 {
+  margin-left: 200px;
+}
+.view_All {
+  border: none;
+  width: 160px;
+  background-color: rgb(230, 230, 0);
+  height: 45px;
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+  margin-left: 700px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.dd {
+  background-color: rgb(16, 1, 64);
+  height: 650px;
+  margin-bottom: 100px;
+}
+.about_img {
+  margin-top: 100px;
+  margin-left: 300px;
+}
+.text {
+  color: white;
+}
+.view_All2 {
+  border: none;
+  width: 160px;
+  background-color: rgb(230, 230, 0);
+  height: 45px;
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.text {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.h1 {
+  text-align: center;
+}
+.p {
+  text-align: center;
+}
+.Fitness img {
+  width: 90px;
+}
+.kk {
+  text-align: center;
+  margin-left: 180px;
+  margin-top: 80px;
+}
+.Fitness {
+  width: 280px;
+  height: 250px;
+  padding-top: 20px;
+  box-shadow: 5px 5px 9px;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+.Fitness:hover {
+  background-color: rgb(16, 1, 64);
+  color: white;
+}
+.ful_name {
+  width: 550px;
+  height: 50px;
+  margin-top: 30px;
+}
+.message {
+  width: 550px;
+  height: 150px;
+  margin-top: 30px;
+}
+.ee {
+  margin-left: 220px;
+}
+.view_All3 {
+  border: none;
+  width: 160px;
+  background-color: rgb(230, 230, 0);
+  height: 45px;
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.concat {
+  width: 550px;
+  height: 600px;
+}
+.qq {
+  width: 500px;
+  margin-left: 45px;
+}
+.dumaloq_rasm {
+  width: 130px;
+  height: 130px;
+  border-radius: 100px;
+}
+.tt {
+  background-color: rgb(16, 1, 64);
+  width: 600px;
+  text-align: center;
+  color: white;
+  height: 400px;
+  padding-top: 50px;
+  margin-left: 130px;
+}
+.tt3 {
+  background-color: rgb(16, 1, 64);
+  width: 600px;
+  text-align: center;
+  color: white;
+  height: 400px;
+  padding-top: 50px;
+  margin-left: 50px;
+}
+.uu button {
+  background-color: rgb(230, 230, 0);
+  border: none;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  color: white;
+}
+.uu {
+  margin-left: 700px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.foter_asosiy {
+  background-color: rgb(16, 1, 64);
+  height: 350px;
+  padding: 70px;
+  display: flex;
+}
+.zz {
+  color: white;
+  margin-left: 20px;
+  font-size: 26px;
+}
+
+.footer_left {
+  color: white;
+  margin-left: 300px;
+}
+.footer_sentir {
+  color: white;
+  margin-left: 70px;
+}
+.view_All8 {
+  border: none;
+  width: 250px;
+  background-color: rgb(230, 230, 0);
+  height: 45px;
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.Subscribe {
+  width: 250px;
+  height: 45px;
+  display: flex none;
+  background-color: rgb(0, 0, 93);
+  border: none;
+  display: block;
+}
+.foter_right {
+  color: white;
+  margin-left: 70px;
+}
+.rs_750 {
+  display: none;
+}
+.responsiv {
+  display: none;
+}
+/* responsiv */
+
+@media (max-width: 750px) {
+  main {
+    display: none;
+  }
+  header {
+    display: none;
+  }
+  footer {
+    display: none;
+  }
+  .rs_750 {
+    display: block;
+  }
+  @media (max-width: 450px) {
+    .responsiv {
+      display: block;
+    }
+    .rs_750 {
+      display: none;
+    }
+  }
+  .rs_smart_watches {
+    background-color: rgb(0, 0, 109);
+    width: 1400px;
+    color: white;
+    padding: 30px;
+  }
+  .rs_smart_watches button {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 20px;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  .rs_text h1 {
+    font-size: 120px;
+    margin-top: 300px;
+    margin-bottom: 50px;
+  }
+  .rs_text p {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+  .rs_rasm {
+    width: 1000px;
+    margin: 0 0 0 170px;
+  }
+  .rs_text {
+    margin-top: 300px;
+    margin-left: 70px;
+  }
+  .lastes_h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .rs_lastes2 {
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 400px;
+  }
+  .rs_lastes_watches2 button {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 30px;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  .rs_lastes_watches2 {
+    background-color: rgb(242, 242, 242);
+    width: 1300px;
+    height: 1200px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+  }
+  .rs_view_All {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 30px;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-left: 400px;
+  }
+  .rs_about_img {
+    width: 1000px;
+    margin-top: 150px;
+    margin-left: 120px;
+  }
+  .rs_about_asosiy {
+    width: 1400px;
+    background-color: rgb(0, 0, 104);
+  }
+  .rs_about_asosiy h1 {
+    font-size: 100px;
+  }
+  .rs_about_asosiy p {
+    font-size: 40px;
+  }
+  .rs_about_asosiy button {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 30px;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-left: 30px;
+  }
+  .rs_h1 {
+    font-size: 80px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .rs_Fitness img {
+    width: 300px;
+    margin-left: 500px;
+  }
+  .rs_Fitness h1 {
+    font-size: 70px;
+    width: 700px;
+    margin-left: 380px;
+    margin-bottom: 20px;
+  }
+  .rs_Fitness p {
+    font-size: 50px;
+    width: 900px;
+    margin-left: 250px;
+  }
+  .rs_Fitness h2 {
+    font-size: 60px;
+    margin-left: 490px;
+    width: 600px;
+  }
+  .rs_Fitness {
+    border: solid grey;
+    width: 1320px;
+    height: 700px;
+    margin-left: 10px;
+    padding-top: 40px;
+    margin-bottom: 50px;
+  }
+  .rs_ful_name {
+    width: 1200px;
+    height: 130px;
+    border: 4px gray solid;
+    font-size: 40px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+  }
+  .rs_message {
+    width: 1200px;
+    height: 300px;
+    border: 4px gray solid;
+    font-size: 40px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+  }
+  .rs_view_All3 {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 30px;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-left: 30px;
+  }
+  .rs_concat {
+    width: 1200px;
+    margin-left: 70px;
+  }
+  .rs_tt {
+    background-color: rgb(0, 0, 124);
+    width: 1200px;
+    margin-left: 70px;
+    color: white;
+    height: 1400px;
+    padding-top: 100px;
+    margin-top: 100px;
+  }
+  .rs_dumaloq_rasm {
+    width: 350px;
+    border-radius: 50%;
+    margin-left: 400px;
+  }
+  .rs_tt h3 {
+    font-size: 60px;
+    margin-left: 440px;
+    margin-bottom: 70px;
+  }
+  .rs_qq {
+    width: 1000px;
+    font-size: 50px;
+    margin-left: 90px;
+  }
+  .rs_1 h1 {
+    background-color: rgb(220, 220, 0);
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+  }
+  .rs_1 h2 {
+    background-color: rgb(220, 220, 0);
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+    margin-left: 20px;
+  }
+  .rs_1 {
+    margin-left: 600px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+  }
+  .rs_footer {
+    background-color: rgb(0, 0, 124);
+    width: 1400px;
+    color: white;
+    height: 1900px;
+    padding-top: 100px;
+    padding-left: 60px;
+  }
+  .rs_footer h3 {
+    font-size: 90px;
+    margin-bottom: 40px;
+  }
+  .rs_footer p {
+    font-size: 65px;
+  }
+  .rs_zz {
+    font-size: 100px;
+  }
+  .rs_zz li {
+    margin-left: 20px;
+    margin-bottom: 60px;
+  }
+  .rs_footer h6 {
+    font-size: 50px;
+    margin-bottom: 30px;
+  }
+  .rs_footer h3 {
+    font-size: 40px;
+    margin-bottom: 70px;
+  }
+  .rs_ful_name1 {
+    width: 1200px;
+    height: 130px;
+    border: 4px gray solid;
+    font-size: 40px;
+    margin-bottom: 50px;
+    background-color: rgb(0, 0, 153);
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .rs_footer button {
+    width: 1200px;
+    height: 130px;
+    border: 4px gray solid;
+    font-size: 40px;
+    margin-bottom: 50px;
+    background-color: rgb(220, 220, 0);
+  }
+  
+  .timups {
+    font-size: 60px;
+  }
+  .bars {
+    font-size: 60px;
+    margin-left: 1100px;
+    list-style: none;
+  }
+  .rs_header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+    margin-top: 100px;
+  }
+  .rs_smart_watches1 {
+    background-color: rgb(0, 0, 153);
+    width:2000px;
+    color: white;
+    padding: 200px;
+  }
+  .rs_smart_watches1 button {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 20px;
+    align-items: center;
+    margin-bottom: 50px;
+    padding-left: 50px;
+  }
+  .rs_text1 h1 {
+    font-size: 120px;
+    margin-top: 300px;
+    margin-bottom: 50px;
+  }
+  .rs_text1 p {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+  .rs_rasm1 {
+    width: 1000px;
+    margin: 0 0 0 170px;
+  }
+  .rs_text1 {
+    margin-top: 300px;
+    margin-left: 70px;
+  }
+  
+  .lastes_asosiy_750 {
+    background-color: rgb(227, 233, 239);
+    width: 1300px;
+    height: 760px;
+    margin-left: 350px;
+    border-radius: 20px 20px;
+    padding-bottom: 10px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+  }
+  .lastes_watches_750 {
+    margin-left: 450px;
+    height: 600px;
+    width: 400px;
+  }
+  
+  .lastes_asosiy_750 button {
+    width: 300px;
+    height: 80px;
+    border-radius: 15px 0 0 0;
+    border: none;
+    background-color: yellow;
+  }
+  .lastes_asosiy_750 h1 {
+    margin-left: 1000px;
+    color: black;
+    font-size: 50px;
+  }
+  .lastes_asosiy_7502 {
+    background-color: rgb(227, 233, 239);
+    width: 600px;
+    margin-left: 350px;
+    border-radius: 20px 20px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+  }
+  .lastes_watches_7502 {
+    margin-left: 150px;
+    height: 400px;
+    width: 300px;
+  }
+  
+  .lastes_asosiy_7502 button {
+    width: 200px;
+    height: 60px;
+    border-radius: 15px 0 0 0;
+    border: none;
+    background-color: yellow;
+  }
+  .lastes_asosiy_7502 h1 {
+    margin-left: 820px;
+    color: white;
+    font-size: 35px;
+  }
+
+  .lastes_asosiy_7503 {
+    background-color: rgb(227, 233, 239);
+    width: 600px;
+    margin-left: 50px;
+    border-radius: 20px 20px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+  }
+  .lastes_watches_7503 {
+    margin-left: 150px;
+    height: 400px;
+    width: 300px;
+  }
+  
+  .lastes_asosiy_7503 button {
+    width: 200px;
+    height: 60px;
+    border-radius: 15px 0 0 0;
+    border: none;
+    background-color: yellow;
+  }
+  .lastes_asosiy_7503 h1 {
+    margin-left: 820px;
+    color: white;
+    font-size: 35px;
+  }
+  .rs_view_All1 {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 30px;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-left: 700px;
+  }
+  .rs_about_img1{
+    width: 1000px;
+    margin-top: 150px;
+    margin-left: 120px;
+  }
+  .rs_about_asosiy1 {
+    width: 2000px;
+    background-color: rgb(0, 0, 104);
+    color: white;
+    padding-left: 30px;
+  }
+  .rs_about_asosiy1 h1 {
+    font-size: 100px;
+  }
+  .rs_about_asosiy1 p {
+    font-size: 70px;
+  }
+  .rs_about_asosiy1 button {
+    width: 500px;
+    height: 100px;
+    border: none;
+    background-color: rgb(249, 249, 0);
+    color: white;
+    font-size: 35px;
+    border-radius: 30px;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-left: 30px;
+  }
+  .fitnes_750{
+    margin-top: 80px;
+    margin-left: 65px;
+    margin-bottom: 80px;
+  }
+  .rs_Fitness1 img {
+    width: 300px;
+    margin-left: 300px;
+  }
+  .rs_Fitness1 h1 {
+    font-size:1 70px;
+    width: 700px;
+    margin-left: 320px;
+    margin-bottom: 20px;
+  }
+  .rs_Fitness1 p {
+    font-size: 35px;
+    width: 800px;
+    margin-left: 150px;
+  }
+  .rs_Fitness1 h2 {
+    font-size: 60px;
+    margin-left: 300px;
+    width:px;
+  }
+  .rs_Fitness1 {
+    border: solid grey;
+    width: 890px;
+    height: 700px;
+    margin-left: 10px;
+    padding-top: 40px;
+    margin-bottom: 50px;
+  }
+}
+
